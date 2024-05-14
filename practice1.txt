@@ -1,0 +1,22 @@
+Hi, there I am just practicing the git commands
+
+git clone
+git pull
+ls
+git add file1 file2
+git add .
+cat file1
+git status
+git commit -m "first commit"
+git push origin main
+git remote -v
+git init
+git add README.md
+git status
+git commit -m "first commit after initializing the empty repo"
+git status
+git branch -M main
+git remote add origin https://
+git push -u origin main
+
+
